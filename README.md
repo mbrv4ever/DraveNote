@@ -2,6 +2,12 @@
 
 Lokale markdown-notities.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveNote](https://dravenlock.nl/video/DraveNote.jpg)](https://dravenlock.nl/video/DraveNote.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveNote.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.7.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
